@@ -16,6 +16,8 @@ old=hookmetamethod(game, "__namecall", function(self, ...)
         print(
             ("Remote Name: %s\nArguments: %s\nCalling Script: %s"):format(self.Name, table.concat({...}, ", "), (getcallingscript()~=nil and getcallingscript():GetFullName() or ""))
         )
+        -- Lets say you also want to block this remote, for that you should return nil
+        return nil
     end
     return old(self, ...)
 end)
