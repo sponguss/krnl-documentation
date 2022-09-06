@@ -1,6 +1,8 @@
 # Krnl Documentation
 This is an unnoficial KRNL documentation, which contains a detailed description of every single KRNL function
 
+---
+
 ## Unified Naming Convention
 <p>
     <img src="https://scriptunc.org/badge.png"/>
