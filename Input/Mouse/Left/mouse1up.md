@@ -1,6 +1,6 @@
 # Left Mouse Release
 ```lua
-<void> mouse1up()
+<nil> mouse1up()
 ```
 
 Simply makes a left mouse button release

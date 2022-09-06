@@ -1,6 +1,6 @@
 # Key Release
 ```lua
-<void> keyrelease(keycode: uint)
+<nil> keyrelease(keycode: uint)
 ```
 Simulates a key release for [`keycode`](https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)
 

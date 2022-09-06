@@ -1,6 +1,6 @@
 # Key Press
 ```lua
-<void> keypress(keycode: uint)
+<nil> keypress(keycode: uint)
 ```
 Simulates a key press for [`keycode`](https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)
 

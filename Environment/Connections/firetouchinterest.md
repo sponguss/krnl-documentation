@@ -1,6 +1,6 @@
 # Fire Touch Interest
 ```lua
-<void> firetouchinterest(part: BasePart, toTouch: BasePart, touching?=0)
+<nil> firetouchinterest(part: BasePart, toTouch: BasePart, touching?=0)
 ```
 Fires the `Touched` event on `toTouch` with the arguments `part` (or using `part`)
 

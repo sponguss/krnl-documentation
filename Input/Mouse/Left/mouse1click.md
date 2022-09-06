@@ -1,6 +1,6 @@
 # Left Mouse Click
 ```lua
-<void> mouse1click()
+<nil> mouse1click()
 ```
 
 Simply makes a left mouse button click

@@ -1,6 +1,6 @@
 # Set Scriptable
 ```lua
-<void> setscriptable(object: Instance, property: string, scriptable: bool)
+<nil> setscriptable(object: Instance, property: string, scriptable: bool)
 ```
 ---
 `Example`

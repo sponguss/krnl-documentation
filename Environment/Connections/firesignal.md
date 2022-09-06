@@ -1,6 +1,6 @@
 # Fire Signal
 ```lua
-<void> firesignal(signal: RBXScriptSignal, ...)
+<nil> firesignal(signal: RBXScriptSignal, ...)
 ```
 Fires a signal using specific arguments
 
